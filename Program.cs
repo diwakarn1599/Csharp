@@ -17,7 +17,7 @@ namespace HelloWorld
             num1 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter Second Number");
             num2 = Convert.ToInt32( Console.ReadLine());
-            Console.WriteLine("Hello");
+            Console.WriteLine("HelloWorld");
 
             Operations op = new Operations();
             
